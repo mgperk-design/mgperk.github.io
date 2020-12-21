@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0--307--archicad-23--corona-render-5",
-      "name": "Коридор 307 кафедры, Archicad 23, визуализация Corona Render 5",
+      "id": "0-307_a2--archicad-23-with-corona-render-5--",
+      "name": "307_a2 визуализация Archicad 23 with Corona Render 5 без отражений",
       "levels": [
         {
           "tileSize": 256,
@@ -12,13 +12,21 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 500,
+      "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.040118992657610875,
-        "pitch": 0.06737876583635938,
-        "fov": 1.3715802068843215
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": []
