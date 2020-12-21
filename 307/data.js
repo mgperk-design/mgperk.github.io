@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-307_a2--archicad-23-with-corona-render-5--",
-      "name": "307_a2 визуализация Archicad 23 with Corona Render 5 без отражений",
+      "id": "0-307_hires",
+      "name": "307_hires",
       "levels": [
         {
           "tileSize": 256,
@@ -16,13 +16,9 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1000,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
